@@ -1,0 +1,116 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F2CC8F;
+}
+
+header {
+    background: #041F1E;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    margin: 10px 0;
+}
+
+nav a {
+    color: #ffffff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+footer {
+    background: #177E89;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+h1{
+    font-size: 42;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card {
+    background: #F4F1DE;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.himg {
+    width: max-content;
+    position: relative;
+}
+
+.about{
+    font-size: 40;
+    font-style: bold;
+}
+
+.about2{
+    font-size: 28;
+}
+
+img {
+    border: #041F1E;
+    border-style: ridge;
+    border-radius: 1cm;
+    border-width: 6;
+}
+
+.card :hover {
+    background: lightsteelblue;
+}
+
+.othg {
+    width: 100%;
+}
+
+.conslg{
+    font-size: 34;
+    text-decoration: underline;
+}
+
+.hding{
+    font-size: 42;
+    text-decoration: underline;
+}
+
+button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25;
+    width: 10cm;
+    height: 1.2cm;
+    padding: 1px 6px;
+    border: 4px outset buttonborder;
+    border-radius: 3px;
+    color: #F4F1DE;
+    background-color: #945600;
+    text-decoration: none;
+}
+
+form{
+    font-size: 35;
+}
+
+input {
+    height: 0.85cm;
+}
