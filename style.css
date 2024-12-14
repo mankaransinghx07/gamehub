@@ -2,11 +2,11 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
-    background-color: #F2CC8F;
+    background-color: #FFBA08;
 }
 
 header {
-    background: #041F1E;
+    background: #1C3144;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -33,7 +33,7 @@ nav a:hover {
 }
 
 footer {
-    background: #177E89;
+    background: #D00000;
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -70,7 +70,7 @@ h1{
 }
 
 img {
-    border: #041F1E;
+    border: #D00000;
     border-style: ridge;
     border-radius: 1cm;
     border-width: 6;
@@ -87,11 +87,13 @@ img {
 .conslg{
     font-size: 34;
     text-decoration: underline;
+    color: #D00000;
 }
 
 .hding{
     font-size: 42;
     text-decoration: underline;
+    color: #1C3144;
 }
 
 button{
@@ -103,8 +105,9 @@ button{
     border: 4px outset buttonborder;
     border-radius: 3px;
     color: #F4F1DE;
-    background-color: #945600;
+    background-color: #0094C6;
     text-decoration: none;
+    border-color: #1C3144;
 }
 
 form{
